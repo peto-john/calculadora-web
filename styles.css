@@ -107,7 +107,8 @@ button:hover {
     color: rgba(245, 222, 179, 0.63);
 }
 
-/* ESTILOS PARA EL NUMERO 0 */cero {
+/* ESTILOS PARA EL NUMERO 0 */
+#cero {
     grid-column: span 2;
     border-radius: 20px;
 }
